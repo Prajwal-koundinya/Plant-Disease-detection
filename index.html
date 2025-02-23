@@ -1,0 +1,91 @@
+<html>
+ <head>
+  <title>
+   Plant Disease Detection using AI
+  </title>
+  <script src="https://cdn.tailwindcss.com">
+  </script>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&amp;display=swap" rel="stylesheet"/>
+  <style>
+   body {
+            font-family: 'Roboto', sans-serif;
+        }
+  </style>
+ </head>
+ <body class="bg-sky-100 text-gray-800">
+  <header class="bg-white shadow-md py-4">
+   <div class="container mx-auto px-4">
+    <h1 class="text-3xl font-bold text-center text-sky-600">
+     Plant Disease Detection using AI
+    </h1>
+   </div>
+  </header>
+  <main class="container mx-auto px-4 py-8">
+   <section class="text-center mb-8">
+    <h2 class="text-2xl font-semibold mb-4">
+     About the Project
+    </h2>
+    <p class="text-lg">
+     This project leverages the power of Artificial Intelligence to detect diseases in plants. Simply upload an image of the plant, and our AI model will analyze it to identify any potential diseases.
+    </p>
+   </section>
+   <section class="flex flex-col items-center mb-8">
+    <div class="mb-4">
+     <label class="cursor-pointer bg-sky-600 text-white py-2 px-4 rounded hover:bg-sky-700 transition duration-300" for="upload">
+      <i class="fas fa-upload">
+      </i>
+      Upload Image
+     </label>
+     <input class="hidden" id="upload" type="file"/>
+    </div>
+    <button class="bg-sky-600 text-white py-2 px-4 rounded hover:bg-sky-700 transition duration-300">
+     <i class="fas fa-search">
+     </i>
+     Check Results
+    </button>
+   </section>
+   <section class="text-center">
+    <h2 class="text-2xl font-semibold mb-4">
+     How It Works
+    </h2>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+     <div class="bg-white p-6 rounded shadow-md">
+      <img alt="Image of a healthy plant" class="mb-4 rounded" height="200" src="https://storage.googleapis.com/a1aa/image/4XN9w3lpCWfXHVoEZe5o_giD_HgrCIsB3pPAobVBKr4.jpg" width="300"/>
+      <h3 class="text-xl font-bold mb-2">
+       Step 1: Upload Image
+      </h3>
+      <p>
+       Upload a clear image of the plant you want to analyze.
+      </p>
+     </div>
+     <div class="bg-white p-6 rounded shadow-md">
+      <img alt="Image of AI analyzing the plant" class="mb-4 rounded" height="200" src="https://storage.googleapis.com/a1aa/image/V7CHyk9qBzwvXz6gL7xfR3UjrbJEF5nv5NkUg7s-l7A.jpg" width="300"/>
+      <h3 class="text-xl font-bold mb-2">
+       Step 2: AI Analysis
+      </h3>
+      <p>
+       Our AI model processes the image to detect any diseases.
+      </p>
+     </div>
+     <div class="bg-white p-6 rounded shadow-md">
+      <img alt="Image showing the results of the analysis" class="mb-4 rounded" height="200" src="https://storage.googleapis.com/a1aa/image/nuAcurMKoE_HI78IxDfZny-J9i_zt6uGCwbgZpDLlvQ.jpg" width="300"/>
+      <h3 class="text-xl font-bold mb-2">
+       Step 3: Get Results
+      </h3>
+      <p>
+       Receive a detailed report on the health of your plant.
+      </p>
+     </div>
+    </div>
+   </section>
+  </main>
+  <footer class="bg-white shadow-md py-4 mt-8">
+   <div class="container mx-auto px-4 text-center">
+    <p class="text-gray-600">
+     © 2023 Plant Disease Detection using AI. All rights reserved.
+    </p>
+   </div>
+  </footer>
+ </body>
+</html>
