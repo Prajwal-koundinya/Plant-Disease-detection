@@ -14,13 +14,19 @@ This project leverages **Deep Learning (CNNs)** to detect plant diseases from im
  
 *Above: An example of a leaf image with Grad-cam highlighted disease regions.*
 
-## 🛠️ Tech Stack
-- **Python** 🐍
-- **PyTorch** 🔥
-- **Flask** 🌎
-- **Grad-CAM** 🎯
-- **OpenCV** 📷
-- **Matplotlib & Seaborn** 📊
+## ⚙️ **Technologies Used**
+
+| **Technology**       | **Logo**                                                                                  |
+|-----------------------|-------------------------------------------------------------------------------------------|
+| **Python**           | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **PyTorch**          | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
+| **Flask**            | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
+| **HTML**             | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| **CSS**              | ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **JavaScript**       | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Matplotlib**       | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white) |
+| **GitHub**           | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+
 
 ## 📂 Project Structure
 ```
