@@ -9,7 +9,7 @@ This project leverages **Deep Learning (CNNs)** to detect plant diseases from im
 ✅ **Flask Web App** – User-friendly web interface for disease detection.  
 ✅ **Easy to Deploy** – Run locally or on cloud platforms like AWS/GCP.  
 
-## 🖼️ Demo
+## 🖼️ Demo Grad-cam
 ![image](https://github.com/user-attachments/assets/d0ddb082-4b90-448a-adbb-1d0501227992)
  
 *Above: An example of a leaf image with Grad-cam highlighted disease regions.*
@@ -69,7 +69,8 @@ Visit `http://127.0.0.1:5000` in your web browser.
 3️⃣ **Grad-CAM visualization** shows affected regions.  
 
 ## 🎨 UI Preview
-![App UI](https://user-images.githubusercontent.com/example-ui.png)
+![image](https://github.com/user-attachments/assets/3cc99126-01d2-49fb-8d23-9073f5d1daa8)
+
 
 ## 📊 Results
 | Disease | Model Prediction | Confidence |
