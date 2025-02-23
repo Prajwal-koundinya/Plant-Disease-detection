@@ -10,9 +10,9 @@ This project leverages **Deep Learning (CNNs)** to detect plant diseases from im
 ✅ **Easy to Deploy** – Run locally or on cloud platforms like AWS/GCP.  
 
 ## 🖼️ Demo
-![Grad-CAM Visualization](https://github.com/user-attachments/assets/d0ddb082-4b90-448a-adbb-1d0501227992)
+![image](https://github.com/user-attachments/assets/d0ddb082-4b90-448a-adbb-1d0501227992)
 )  
-*Above: An example of a leaf image with highlighted disease regions.*
+*Above: An example of a leaf image with Grad-cam highlighted disease regions.*
 
 ## 🛠️ Tech Stack
 - **Python** 🐍
