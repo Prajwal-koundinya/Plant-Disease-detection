@@ -83,8 +83,11 @@ Visit `http://127.0.0.1:5000` in your web browser.
 - [ ] Optimize model performance.
 - [ ] Deploy on **Hugging Face** or **Streamlit Cloud**.
 
-## 🤝 Contributing
-Feel free to **fork** this repo and submit a **pull request**! 😊
+
+## 🤝 **Acknowledgments**
+Special thanks to the medical and AI communities for their valuable datasets and research.  
+Inspirational guidance from **Dr. Victor Ikechukwu**. Explore their work: [Dr. Victor Ikechukwu](https://github.com/Victor-Ikechukwu). 
+
 
 ## 📜 License
 This project is licensed under the **MIT License**.
