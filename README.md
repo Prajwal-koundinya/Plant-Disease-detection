@@ -28,7 +28,7 @@ This project leverages **Deep Learning (CNNs)** to detect plant diseases from im
 | **GitHub**           | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
 
-## 📂 Project Structure
+## 📂 Project Structure overview
 ```
 📁 plant-disease-detection
 │-- app.py                 # Flask application
