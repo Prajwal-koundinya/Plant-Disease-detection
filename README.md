@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Detection using AI & Grad-CAM 🔍
+# 🌿 Plant Disease Detection using AI & Grad-CAM for explainability 🔍
 
 ## 📌 Overview
 This project leverages **Deep Learning (CNNs)** to detect plant diseases from images and provides **explainability** using **Grad-CAM (Gradient-weighted Class Activation Mapping)**. The model highlights the most important regions in an image contributing to the classification decision.
